@@ -1,5 +1,4 @@
-# target-shooting-game
-Target shooting game with (HTML / CSS) only.
+# Target shooting game with (HTML / CSS) only.
 
 ### Video link showing how it works:
 https://www.youtube.com/watch?v=BXGgf_kMl5E
